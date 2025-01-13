@@ -28,7 +28,7 @@ Follow the [T2Bot Access Token Guide](https://t2bot.io/docs/access_tokens/) to:
 ### Step 3: Obtain the Sample Configuration
 Download the [sample configuration file](https://github.com/geoffwhittington/meshtastic-matrix-relay/blob/main/sample_config.yaml) and save it as `config.yaml` in the root of the repository:
 ```bash
-wget https://github.com/geoffwhittington/meshtastic-matrix-relay/blob/main/sample_config.yaml -O config.yaml
+wget https://github.com/geoffwhittington/meshtastic-matrix-relay/blob/main/sample_config.yaml -O data/config.yaml
 ```
 
 Edit the `config.yaml` file to match your environment. Below is an overview of the key sections:
